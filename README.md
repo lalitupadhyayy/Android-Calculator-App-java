@@ -17,9 +17,7 @@ A simple, clean, and functional calculator app built using Java for Android. Thi
 ## 📸 Screenshots
 
 <!-- Replace with your actual screenshots -->
-<img src="screenshots/calc.jpg" width="250"/>
-<img src="screenshots/calculator_theme.png" width="250"/>
-
+<img src="calc.png" width="250"/>
 ---
 
 ## 🛠️ Built With
