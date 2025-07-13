@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">#A8A8A8</item>
+        <item name="colorPrimaryDark">#A8A8A8</item>
+        <item name="colorAccent">#A8A8A8</item>
+    </style>
+    
+    <style name="btnstyle">
+        <item  name="android:layout_width">100dp</item>
+        <item name="android:layout_height">200dp</item>
+        <item name="android:textSize">30sp</item>
+        <item name="backgroundTint">#fff</item>
+    </style>
+</resources>

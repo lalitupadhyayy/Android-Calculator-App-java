@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+        <!-- Background color of the app -->
+        <color name="background_color">#FFFFFF</color> <!-- White background -->
+
+        <!-- Button colors -->
+        <color name="button_color">#FFB74D</color> <!-- Light orange for buttons -->
+        <color name="button_text_color">#FFFFFF</color> <!-- White text on buttons -->
+
+        <!-- Display text color -->
+        <color name="display_text_color">#000000</color> <!-- Black text for the display -->
+
+        <!-- Operator button colors -->
+        <color name="operator_button_color">#64B5F6</color> <!-- Light blue for operators -->
+        <color name="operator_button_text_color">#FFFFFF</color> <!-- White text on operators -->
+
+        <!-- Clear and Equals button colors -->
+        <color name="clear_button_color">#81C784</color> <!-- Light green for Clear button -->
+        <color name="equals_button_color">#4CAF50</color> <!-- Green for Equals button -->
+        <color name="clear_equals_text_color">#FFFFFF</color> <!-- White text for Clear and Equals buttons -->
+
+        <!-- Button pressed color (for feedback on touch) -->
+        <color name="button_pressed_color">#FFCC80</color> <!-- Light yellow-orange when pressed -->
+
+</resources>
