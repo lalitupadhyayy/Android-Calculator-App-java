@@ -42,3 +42,9 @@ A simple, clean, and functional calculator app built using Java for Android. Thi
 1. Clone the repository:
    ```bash
    git clone https://github.com/lalitupadhyayy/Android-Calculator-App-java.git
+
+## 📦 Download
+
+🔽 **[Download the Latest APK](https://github.com/lalitupadhyayy/Android-Calculator-App-java/releases/latest)**  
+📱 *Compatible with Android 8.0+ (API 26+)*  
+📦 File size: ~17MB   
